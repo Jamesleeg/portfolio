@@ -6133,7 +6133,10 @@ button.bg-danger:focus {
 }
 
 .bg-light {
-  background-color: #f4623a !important;
+  /* background-color: #f4623a !important; */
+  background-image: src=image(/Users/jlg/Sei/training/portfolio/assets/img/bg-masthead.jpg);
+
+
 }
 
 a.bg-light:hover, a.bg-light:focus,
