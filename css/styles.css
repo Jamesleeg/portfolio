@@ -10175,7 +10175,10 @@ header.masthead h1 {
     width: 30%;
   }
 }
-
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
 /* #projects {
   background-image: src=image(/Users/jlg/Sei/training/portfolio/assets/img/bg-masthead.jpg);
 } */
