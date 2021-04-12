@@ -6133,8 +6133,8 @@ button.bg-danger:focus {
 }
 
 .bg-light {
-  /* background-color: #f4623a !important; */
-  background-image: 'src=image(/Users/jlg/Sei/training/portfolio/assets/img/bg-masthead.jpg');
+  background-color: #f4623a !important;
+  /* background-image: 'src=image(/Users/jlg/Sei/training/portfolio/assets/img/bg-masthead.jpg'); */
 
 
 }
